@@ -11,10 +11,10 @@ This version utilizes the Instagram API for better performance.
 # Usage
 
 Steps:
-Copy the following code from the html docs.
-Once you have copied the code, you can close this page and go to the instagram website
-Log in into your account and open the developer console or 
-(Ctrl+Shift+J(Windows)🪟       ||               ⌘+⌥+I (Mac os))🧑‍💻 
+Copy the following code from the html docs.<br>
+Once you have copied the code, you can close this page and go to the instagram website<br>
+Log in into your account and open the developer console or <br>
+(Ctrl+Shift+J(Windows)🪟       ||               ⌘+⌥+I (Mac os))🧑‍💻<br> 
                             paste the code.
 
 1) You will be met with the following interface:
