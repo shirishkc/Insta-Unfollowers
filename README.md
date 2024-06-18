@@ -10,7 +10,7 @@ This version utilizes the Instagram API for better performance.
 
 # Usage
 
-Steps:
+Steps:<br>
 Copy the following code from the html docs.<br>
 Once you have copied the code, you can close this page and go to the instagram website<br>
 Log in into your account and open the developer console or <br>
