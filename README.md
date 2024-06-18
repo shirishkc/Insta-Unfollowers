@@ -19,16 +19,16 @@ Log in into your account and open the developer console or
 
 1) You will be met with the following interface:
 ![STEP1](./step%20png/STEP1.png)
-<br>
+
 2) Then click on console.
 ![step2](./step%20png/step2.png)
-<br>
+
 3) TYPE'allow pasting'
 ![step3](./step%20png/step3%20.png)
-<br>
+
  4) Then after u open with the page
  ![step4](./step%20png/STEP%204.png)
-<br>
+
  5) Boom,now u have the list of unfollowers who haven't follow u back.!! UNFOLLOW THEM;
  ![step5](./step%20png/step5.png)
 
