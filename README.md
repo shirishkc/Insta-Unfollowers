@@ -26,9 +26,13 @@ Log in into your account and open the developer console or <br>
 3) TYPE'allow pasting'
 ![step3](./step%20png/step3%20.png)
 
- 4) Then paste the code instaunfollower.html file on the console then HIT ENTER.
+4) Then paste the code insta unfollower.html file on the console 
+![code](./step%20png/code.png)
+
+5) Hit enter then click the "RUN" Button.
  ![step4](./step%20png/STEP%204.png)
 
- 5) Boom,now u have the list of unfollowers who haven't follow u back.!! UNFOLLOW THEM;
- ![step5](./step%20png/step5.
-<a href="https://bento.me/shirishkc">CLICK HERE</a>
+ 6) Boom,now u have the list of unfollower who haven't follow u back.!! UNFOLLOW THEM;
+ ![step5](./step%20png/step5.)
+
+<a href="https://bento.me/shirishkc">CLICK HERE</a> To check my Bento Profile.
