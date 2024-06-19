@@ -30,7 +30,5 @@ Log in into your account and open the developer console or <br>
  ![step4](./step%20png/STEP%204.png)
 
  5) Boom,now u have the list of unfollowers who haven't follow u back.!! UNFOLLOW THEM;
- ![step5](./step%20png/step5.png)
-
-
- SUPPORT ME TO GROW UP. BY CLICK ON    #CLICK HERE. 
+ ![step5](./step%20png/step5.
+<a href="https://bento.me/shirishkc">CLICK HERE</a>
