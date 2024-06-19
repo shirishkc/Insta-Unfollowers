@@ -1,4 +1,4 @@
-## Insta-Unfollowers
+i## Insta-Unfollowers
 Just a simple code to find out people who haven't follow you back
 
 # Maintenance
@@ -26,7 +26,7 @@ Log in into your account and open the developer console or <br>
 3) TYPE'allow pasting'
 ![step3](./step%20png/step3%20.png)
 
- 4) Then after u open with the page
+ 4) Then paste the code instaunfollower.html file on the console then HIT ENTER.
  ![step4](./step%20png/STEP%204.png)
 
  5) Boom,now u have the list of unfollowers who haven't follow u back.!! UNFOLLOW THEM;
