@@ -1,4 +1,4 @@
-i## Insta-Unfollowers
+## Insta-Unfollowers
 Just a simple code to find out people who haven't follow you back
 
 # Maintenance
